@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-21T08:10:03 EDT" name="Default suite" finished-at="2022-09-21T08:10:06 EDT" duration-ms="2914">
+  <suite started-at="2022-09-22T15:59:33 EDT" name="Default suite" finished-at="2022-09-22T15:59:36 EDT" duration-ms="2984">
     <groups>
     </groups>
-    <test started-at="2022-09-21T08:10:03 EDT" name="Default test" finished-at="2022-09-21T08:10:06 EDT" duration-ms="2914">
+    <test started-at="2022-09-22T15:59:33 EDT" name="Default test" finished-at="2022-09-22T15:59:36 EDT" duration-ms="2984">
       <class name="pages.HomePageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:pages.HomePageTest@550dbc7a]" started-at="2022-09-21T08:10:03 EDT" name="setUp" finished-at="2022-09-21T08:10:06 EDT" duration-ms="2644" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pages.HomePageTest@550dbc7a]" started-at="2022-09-22T15:59:33 EDT" name="setUp" finished-at="2022-09-22T15:59:36 EDT" duration-ms="2576" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="searchboxfieldTest()[pri:0, instance:pages.HomePageTest@550dbc7a]" started-at="2022-09-21T08:10:06 EDT" name="searchboxfieldTest" finished-at="2022-09-21T08:10:06 EDT" duration-ms="119" status="PASS">
+        <test-method signature="searchboxfieldTest()[pri:0, instance:pages.HomePageTest@550dbc7a]" started-at="2022-09-22T15:59:36 EDT" name="searchboxfieldTest" finished-at="2022-09-22T15:59:36 EDT" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchboxfieldTest -->
-        <test-method is-config="true" signature="tearUp()[pri:0, instance:pages.HomePageTest@550dbc7a]" started-at="2022-09-21T08:10:06 EDT" name="tearUp" finished-at="2022-09-21T08:10:06 EDT" duration-ms="117" status="PASS">
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:pages.HomePageTest@550dbc7a]" started-at="2022-09-22T15:59:36 EDT" name="tearUp" finished-at="2022-09-22T15:59:36 EDT" duration-ms="291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearUp -->
